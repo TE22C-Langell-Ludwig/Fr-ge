@@ -1,0 +1,14 @@
+c:\Users\ludwig.langell\Documents\Programmering\Fråge\Fråge\bin\Debug\net7.0\Fråge.exe
+c:\Users\ludwig.langell\Documents\Programmering\Fråge\Fråge\bin\Debug\net7.0\Fråge.deps.json
+c:\Users\ludwig.langell\Documents\Programmering\Fråge\Fråge\bin\Debug\net7.0\Fråge.runtimeconfig.json
+c:\Users\ludwig.langell\Documents\Programmering\Fråge\Fråge\bin\Debug\net7.0\Fråge.dll
+c:\Users\ludwig.langell\Documents\Programmering\Fråge\Fråge\bin\Debug\net7.0\Fråge.pdb
+c:\Users\ludwig.langell\Documents\Programmering\Fråge\Fråge\obj\Debug\net7.0\Fråge.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ludwig.langell\Documents\Programmering\Fråge\Fråge\obj\Debug\net7.0\Fråge.AssemblyInfoInputs.cache
+c:\Users\ludwig.langell\Documents\Programmering\Fråge\Fråge\obj\Debug\net7.0\Fråge.AssemblyInfo.cs
+c:\Users\ludwig.langell\Documents\Programmering\Fråge\Fråge\obj\Debug\net7.0\Fråge.csproj.CoreCompileInputs.cache
+c:\Users\ludwig.langell\Documents\Programmering\Fråge\Fråge\obj\Debug\net7.0\Fråge.dll
+c:\Users\ludwig.langell\Documents\Programmering\Fråge\Fråge\obj\Debug\net7.0\refint\Fråge.dll
+c:\Users\ludwig.langell\Documents\Programmering\Fråge\Fråge\obj\Debug\net7.0\Fråge.pdb
+c:\Users\ludwig.langell\Documents\Programmering\Fråge\Fråge\obj\Debug\net7.0\Fråge.genruntimeconfig.cache
+c:\Users\ludwig.langell\Documents\Programmering\Fråge\Fråge\obj\Debug\net7.0\ref\Fråge.dll
