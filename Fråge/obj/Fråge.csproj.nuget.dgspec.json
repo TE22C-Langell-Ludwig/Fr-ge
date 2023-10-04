@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ludwig.langell\\Documents\\Programmering\\Fråge\\Fråge\\Fråge.csproj": {}
+    "c:\\Users\\ludwig.langell\\Documents\\Programmering\\Fråge\\Fråge\\Fråge.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ludwig.langell\\Documents\\Programmering\\Fråge\\Fråge\\Fråge.csproj": {
+    "c:\\Users\\ludwig.langell\\Documents\\Programmering\\Fråge\\Fråge\\Fråge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ludwig.langell\\Documents\\Programmering\\Fråge\\Fråge\\Fråge.csproj",
+        "projectUniqueName": "c:\\Users\\ludwig.langell\\Documents\\Programmering\\Fråge\\Fråge\\Fråge.csproj",
         "projectName": "Fråge",
-        "projectPath": "C:\\Users\\ludwig.langell\\Documents\\Programmering\\Fråge\\Fråge\\Fråge.csproj",
+        "projectPath": "c:\\Users\\ludwig.langell\\Documents\\Programmering\\Fråge\\Fråge\\Fråge.csproj",
         "packagesPath": "C:\\Users\\ludwig.langell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ludwig.langell\\Documents\\Programmering\\Fråge\\Fråge\\obj\\",
+        "outputPath": "c:\\Users\\ludwig.langell\\Documents\\Programmering\\Fråge\\Fråge\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
